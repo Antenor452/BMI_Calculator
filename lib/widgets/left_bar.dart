@@ -1,4 +1,4 @@
-import 'package:bmi_calc/constans/app_constants.dart';
+import 'package:bmi_calc/constants/app_constants.dart';
 import 'package:flutter/material.dart';
 
 class LeftBar extends StatelessWidget {

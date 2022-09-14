@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../constans/app_constants.dart';
+import '../constants/app_constants.dart';
 
 class RightBar extends StatelessWidget {
   final double? barWidth;
